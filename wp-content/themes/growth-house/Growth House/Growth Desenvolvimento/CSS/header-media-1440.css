@@ -1,7 +1,6 @@
 @media screen and (min-width:1440px) {
     .header__container {
         flex-direction: row;
-        margin-bottom: 1rem;
     }
 
     .header__logo {
