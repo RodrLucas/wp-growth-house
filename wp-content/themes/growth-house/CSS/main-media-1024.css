@@ -7,10 +7,6 @@
         height: 46rem;
     }
 
-    .main__apresentation-tittle {
-        font-size: 2.5rem;
-    }
-
     .main__explication {
         display: flex;
         flex-direction: row;
@@ -24,8 +20,8 @@
     }
 
     .main__explication-img {
-        width: 35vw;
-        height: 45vh;
+        width: 100vw;
+        height: 50vh;
     }
 
     .who__beliver-tittle {

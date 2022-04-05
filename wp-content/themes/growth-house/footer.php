@@ -16,9 +16,9 @@
         </ul>
 
         <div class="footer__social">
-            <img class="footer__social-img" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/linkedin-3856178-3201511.png" alt="LinkedIn">
-            <img class="footer__social-img" src="https://winaero.com/blog/wp-content/uploads/2018/02/mail-email-icon-big.png" alt="Mail">
-            <img class="footer__social-img" src="https://images.vexels.com/media/users/3/136858/isolated/lists/f9ee3804d3c6d3c31d8fdbe0855883f0-icone-plano-simples-de-smartphone.png" alt="Smartphone">
+            <img class="footer__social-img" src="https://iconape.com/wp-content/files/yd/367773/svg/logo-linkedin-logo-icon-png-svg.png" alt="LinkedIn">
+            <img class="footer__social-img" src="https://cdn.iconscout.com/icon/free/png-256/mail-3273934-2741674.png" alt="Mail">
+            <img class="footer__social-img" src="https://cdn.iconscout.com/icon/free/png-256/smartphone-1482482-1255580.png" alt="Smartphone">
         </div>
 
         <button class="footer__button" type="submit">Lorem ipsum</button>

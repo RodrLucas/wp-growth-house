@@ -3,7 +3,7 @@ body {
 }
 
 .main__apresentation {
-    background-image: url(../assets/apresentation.jpg);
+    background-image: url(https://www.advantagemarketing.com.br/hs-fs/hubfs/marketing-digital-4.png?width=1661&height=854&name=marketing-digital-4.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
@@ -14,7 +14,7 @@ body {
 }
 
 .main__apresentation-tittle {
-    color: #ffffff;
+    color: black;
     font-weight: bold;
 }
 
