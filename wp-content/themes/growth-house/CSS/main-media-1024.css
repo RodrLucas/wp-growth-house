@@ -21,7 +21,9 @@
 
     .main__explication-img {
         width: 100vw;
+        max-width: 17rem;
         height: 50vh;
+        max-height: 14rem;
     }
 
     .who__beliver-tittle {
