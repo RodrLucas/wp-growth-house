@@ -1,0 +1,106 @@
+@media screen and (min-width:1024px) {
+    body {
+        font-size: 24px;
+    }
+
+    .main__apresentation {
+        height: 46rem;
+    }
+
+    .main__apresentation-tittle {
+        font-size: 2.5rem;
+    }
+
+    .main__explication {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 5rem;
+    }
+
+    .main__explication-container1 {
+        font-size: 1.5rem;
+        max-width: 35rem;
+    }
+
+    .main__explication-img {
+        width: 35vw;
+        height: 45vh;
+    }
+
+    .who__beliver-tittle {
+        font-size: 2.5rem;
+    }
+
+    .main__contacts {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .main__contacts-form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 45vw;
+        font-size: 1rem;
+    }
+
+    .main__contacts-tittle {
+        font-size: 2rem;
+    }
+
+    .main__contacts-paragraph {
+        margin-bottom: 2.5rem;
+    }
+
+    .main__contacts-inputs {
+        width: calc(100vw - 30rem);
+        max-width: 25rem;
+    }
+
+    #textarea {
+        width: calc(100vw - 30rem);
+        max-width: 25rem;
+    }
+
+    .button {
+        width: calc(100vw - 30rem);
+        max-width: 25rem;
+    }
+
+    #button-newsletter {
+      padding: 0 2rem;
+    }
+
+    .newsletter {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 3rem;
+    }
+
+    .main__newsletter-form {
+        flex-direction: row;
+        width: 58vw;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+    }
+
+    .main__newsletter-tittle {
+        margin-top: 0;
+    }
+
+    .main__newsletter-inputs {
+        max-width: 25rem;
+    }
+
+    .footer {
+        justify-content: space-around;
+    }
+
+
+}

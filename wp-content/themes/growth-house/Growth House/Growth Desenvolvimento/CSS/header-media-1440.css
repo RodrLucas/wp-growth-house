@@ -1,0 +1,16 @@
+@media screen and (min-width:1440px) {
+    .header__container {
+        flex-direction: row;
+        margin-bottom: 1rem;
+    }
+
+    .header__logo {
+        width: 12rem;
+        height: 7rem;
+    }
+
+    .header__li > a {
+        font-size: 1.5rem;
+        margin-left: 0.5rem;
+    }
+}
