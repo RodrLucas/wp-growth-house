@@ -26,6 +26,10 @@ footer {
     color: white;
 }
 
+.footer__link:hover {
+    color: #6D68AD;
+}
+
 
 .footer__social {
     margin-top: 1rem;
@@ -51,6 +55,11 @@ footer {
     outline: none;
     width: 9rem;
     cursor: pointer;
+}
+
+.footer__button:hover {
+    color: #595594;
+    background: #FFFFFF;
 }
 
 .footer__paragraph {

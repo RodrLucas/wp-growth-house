@@ -31,6 +31,14 @@
     font-size: 1.2rem;
 }
 
+.header__li>a:hover {
+    color: #FFFFFF;
+    background: #595594;
+    padding: 0.1rem .5rem;
+    border-radius: 17px;
+    font-size: 1.5rem;
+}
+
 #header__last-child {
     background: #6D68AD;
     color: #FFFFFF;
@@ -38,4 +46,8 @@
     border-radius: 17px;
 }
 
+#header__last-child:hover {
+    color: #595594;
+    background: #FFFFFF;
+}
 

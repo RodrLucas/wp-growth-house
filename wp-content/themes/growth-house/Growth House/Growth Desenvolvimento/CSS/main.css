@@ -77,7 +77,6 @@ body {
     text-align: center;
     font-weight: lighter;
     padding: 16px;
-
 }
 
 .who__beliver-tittle>strong {
@@ -207,6 +206,11 @@ body {
     cursor: pointer;
     font-weight: bold;
     font-size: 1rem;
+}
+
+.button:hover {
+    color: #595594;
+    background: #FFFFFF;
 }
 
 .main__newsletter-form {
