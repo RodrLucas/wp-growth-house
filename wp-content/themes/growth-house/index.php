@@ -27,7 +27,7 @@
 
             <div id="who__beliver--items-wrapper">
                 <div id="who__beliver-items">
-                    <div class="who__beliver-item"><img class="who__beliver-img" src="https://pbs.twimg.com/media/FN1XNpOX0AY91Ce?format=jpg&name=4096x4096"
+                    <div class="who__beliver-item"><img id="id" class="who__beliver-img" src="https://pbs.twimg.com/media/FN1XNpOX0AY91Ce?format=jpg&name=4096x4096"
                             alt="Company"></div>
 
                     <div class="who__beliver-item"><img class="who__beliver-img" src="https://pbs.twimg.com/media/DgFTdZ-XUAMaxsZ?format=jpg&name=4096x4096"
