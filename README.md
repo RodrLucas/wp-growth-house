@@ -2,7 +2,7 @@
 
 <img src="./public/assets/img/Gif.gif" width="800px" height="400px" alt="Gif do Teste">
 
->  The Project is a test that simulates a website.
+>  The Project is a test that simulates a Langind Page.
 
 ## :page_facing_up: Explanation
 
@@ -22,5 +22,6 @@ The following tools were used in this project:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [WordPress](https://wordpress.org/)
+- [PHP](https://www.php.net/)
 
 <a href="#top">Back to top</a>
